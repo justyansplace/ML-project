@@ -1,0 +1,481 @@
+raceId,driverId,grid,year,month,day,location,weather_conditions,temp_avg,cloud_cover,safety_car_race,is_street_circuit,part_of_the_season,situation_in_championships
+1145,846,1,2025,3,16,Melbourne,"Rain, Partially cloudy",18.6,81.9,1,1,start,1
+1145,857,2,2025,3,16,Melbourne,"Rain, Partially cloudy",18.6,81.9,1,1,start,1
+1145,830,3,2025,3,16,Melbourne,"Rain, Partially cloudy",18.6,81.9,1,1,start,1
+1145,859,18,2025,3,16,Melbourne,"Rain, Partially cloudy",18.6,81.9,1,1,start,1
+1145,847,4,2025,3,16,Melbourne,"Rain, Partially cloudy",18.6,81.9,1,1,start,1
+1145,863,16,2025,3,16,Melbourne,"Rain, Partially cloudy",18.6,81.9,1,1,start,1
+1145,844,7,2025,3,16,Melbourne,"Rain, Partially cloudy",18.6,81.9,1,1,start,1
+1145,1,8,2025,3,16,Melbourne,"Rain, Partially cloudy",18.6,81.9,1,1,start,1
+1145,4,12,2025,3,16,Melbourne,"Rain, Partially cloudy",18.6,81.9,1,1,start,1
+1145,840,13,2025,3,16,Melbourne,"Rain, Partially cloudy",18.6,81.9,1,1,start,1
+1145,842,9,2025,3,16,Melbourne,"Rain, Partially cloudy",18.6,81.9,1,1,start,1
+1145,862,14,2025,3,16,Melbourne,"Rain, Partially cloudy",18.6,81.9,1,1,start,1
+1145,839,19,2025,3,16,Melbourne,"Rain, Partially cloudy",18.6,81.9,1,1,start,1
+1145,864,20,2025,3,16,Melbourne,"Rain, Partially cloudy",18.6,81.9,1,1,start,1
+1145,852,5,2025,3,16,Melbourne,"Rain, Partially cloudy",18.6,81.9,1,1,start,1
+1145,865,11,2025,3,16,Melbourne,"Rain, Partially cloudy",18.6,81.9,1,1,start,1
+1145,848,6,2025,3,16,Melbourne,"Rain, Partially cloudy",18.6,81.9,1,1,start,1
+1145,832,10,2025,3,16,Melbourne,"Rain, Partially cloudy",18.6,81.9,1,1,start,1
+1145,807,17,2025,3,16,Melbourne,"Rain, Partially cloudy",18.6,81.9,1,1,start,1
+1145,866,15,2025,3,16,Melbourne,"Rain, Partially cloudy",18.6,81.9,1,1,start,1
+1146,846,3,2025,3,23,Shanghai,Rain,20.4,0.0,0,0,start,1
+1146,857,1,2025,3,23,Shanghai,Rain,20.4,0.0,0,0,start,1
+1146,830,4,2025,3,23,Shanghai,Rain,20.4,0.0,0,0,start,1
+1146,859,20,2025,3,23,Shanghai,Rain,20.4,0.0,0,0,start,1
+1146,847,2,2025,3,23,Shanghai,Rain,20.4,0.0,0,0,start,1
+1146,863,8,2025,3,23,Shanghai,Rain,20.4,0.0,0,0,start,1
+1146,844,6,2025,3,23,Shanghai,Rain,20.4,0.0,0,0,start,1
+1146,1,5,2025,3,23,Shanghai,Rain,20.4,0.0,0,0,start,1
+1146,4,13,2025,3,23,Shanghai,Rain,20.4,0.0,0,0,start,1
+1146,840,14,2025,3,23,Shanghai,Rain,20.4,0.0,0,0,start,1
+1146,842,16,2025,3,23,Shanghai,Rain,20.4,0.0,0,0,start,1
+1146,862,18,2025,3,23,Shanghai,Rain,20.4,0.0,0,0,start,1
+1146,839,11,2025,3,23,Shanghai,Rain,20.4,0.0,0,0,start,1
+1146,864,17,2025,3,23,Shanghai,Rain,20.4,0.0,0,0,start,1
+1146,852,9,2025,3,23,Shanghai,Rain,20.4,0.0,0,0,start,1
+1146,865,7,2025,3,23,Shanghai,Rain,20.4,0.0,0,0,start,1
+1146,848,10,2025,3,23,Shanghai,Rain,20.4,0.0,0,0,start,1
+1146,832,15,2025,3,23,Shanghai,Rain,20.4,0.0,0,0,start,1
+1146,807,12,2025,3,23,Shanghai,Rain,20.4,0.0,0,0,start,1
+1146,866,19,2025,3,23,Shanghai,Rain,20.4,0.0,0,0,start,1
+1147,846,2,2025,4,6,Suzuka,"Rain, Partially cloudy",11.9,84.0,0,0,start,1
+1147,857,3,2025,4,6,Suzuka,"Rain, Partially cloudy",11.9,84.0,0,0,start,1
+1147,830,1,2025,4,6,Suzuka,"Rain, Partially cloudy",11.9,84.0,0,0,start,1
+1147,859,13,2025,4,6,Suzuka,"Rain, Partially cloudy",11.9,84.0,0,0,start,1
+1147,847,5,2025,4,6,Suzuka,"Rain, Partially cloudy",11.9,84.0,0,0,start,1
+1147,863,6,2025,4,6,Suzuka,"Rain, Partially cloudy",11.9,84.0,0,0,start,1
+1147,844,4,2025,4,6,Suzuka,"Rain, Partially cloudy",11.9,84.0,0,0,start,1
+1147,1,8,2025,4,6,Suzuka,"Rain, Partially cloudy",11.9,84.0,0,0,start,1
+1147,4,12,2025,4,6,Suzuka,"Rain, Partially cloudy",11.9,84.0,0,0,start,1
+1147,840,20,2025,4,6,Suzuka,"Rain, Partially cloudy",11.9,84.0,0,0,start,1
+1147,842,11,2025,4,6,Suzuka,"Rain, Partially cloudy",11.9,84.0,0,0,start,1
+1147,862,19,2025,4,6,Suzuka,"Rain, Partially cloudy",11.9,84.0,0,0,start,1
+1147,839,18,2025,4,6,Suzuka,"Rain, Partially cloudy",11.9,84.0,0,0,start,1
+1147,864,10,2025,4,6,Suzuka,"Rain, Partially cloudy",11.9,84.0,0,0,start,1
+1147,852,14,2025,4,6,Suzuka,"Rain, Partially cloudy",11.9,84.0,0,0,start,1
+1147,865,7,2025,4,6,Suzuka,"Rain, Partially cloudy",11.9,84.0,0,0,start,1
+1147,848,9,2025,4,6,Suzuka,"Rain, Partially cloudy",11.9,84.0,0,0,start,1
+1147,832,15,2025,4,6,Suzuka,"Rain, Partially cloudy",11.9,84.0,0,0,start,1
+1147,807,16,2025,4,6,Suzuka,"Rain, Partially cloudy",11.9,84.0,0,0,start,1
+1147,866,17,2025,4,6,Suzuka,"Rain, Partially cloudy",11.9,84.0,0,0,start,1
+1148,846,6,2025,4,13,Sakhir,Clear,25.9,0.9,1,0,start,1
+1148,857,1,2025,4,13,Sakhir,Clear,25.9,0.9,1,0,start,1
+1148,830,7,2025,4,13,Sakhir,Clear,25.9,0.9,1,0,start,1
+1148,859,17,2025,4,13,Sakhir,Clear,25.9,0.9,1,0,start,1
+1148,847,3,2025,4,13,Sakhir,Clear,25.9,0.9,1,0,start,1
+1148,863,5,2025,4,13,Sakhir,Clear,25.9,0.9,1,0,start,1
+1148,844,2,2025,4,13,Sakhir,Clear,25.9,0.9,1,0,start,1
+1148,1,9,2025,4,13,Sakhir,Clear,25.9,0.9,1,0,start,1
+1148,4,13,2025,4,13,Sakhir,Clear,25.9,0.9,1,0,start,1
+1148,840,19,2025,4,13,Sakhir,Clear,25.9,0.9,1,0,start,1
+1148,842,4,2025,4,13,Sakhir,Clear,25.9,0.9,1,0,start,1
+1148,862,11,2025,4,13,Sakhir,Clear,25.9,0.9,1,0,start,1
+1148,839,14,2025,4,13,Sakhir,Clear,25.9,0.9,1,0,start,1
+1148,864,20,2025,4,13,Sakhir,Clear,25.9,0.9,1,0,start,1
+1148,852,10,2025,4,13,Sakhir,Clear,25.9,0.9,1,0,start,1
+1148,865,12,2025,4,13,Sakhir,Clear,25.9,0.9,1,0,start,1
+1148,848,15,2025,4,13,Sakhir,Clear,25.9,0.9,1,0,start,1
+1148,832,8,2025,4,13,Sakhir,Clear,25.9,0.9,1,0,start,1
+1148,807,16,2025,4,13,Sakhir,Clear,25.9,0.9,1,0,start,1
+1148,866,18,2025,4,13,Sakhir,Clear,25.9,0.9,1,0,start,1
+1149,846,10,2025,4,20,Jeddah,Clear,31.6,1.1,1,1,start,1
+1149,857,2,2025,4,20,Jeddah,Clear,31.6,1.1,1,1,start,1
+1149,830,1,2025,4,20,Jeddah,Clear,31.6,1.1,1,1,start,1
+1149,859,12,2025,4,20,Jeddah,Clear,31.6,1.1,1,1,start,1
+1149,847,3,2025,4,20,Jeddah,Clear,31.6,1.1,1,1,start,1
+1149,863,5,2025,4,20,Jeddah,Clear,31.6,1.1,1,1,start,1
+1149,844,4,2025,4,20,Jeddah,Clear,31.6,1.1,1,1,start,1
+1149,1,7,2025,4,20,Jeddah,Clear,31.6,1.1,1,1,start,1
+1149,4,13,2025,4,20,Jeddah,Clear,31.6,1.1,1,1,start,1
+1149,840,16,2025,4,20,Jeddah,Clear,31.6,1.1,1,1,start,1
+1149,842,9,2025,4,20,Jeddah,Clear,31.6,1.1,1,1,start,1
+1149,862,17,2025,4,20,Jeddah,Clear,31.6,1.1,1,1,start,1
+1149,839,19,2025,4,20,Jeddah,Clear,31.6,1.1,1,1,start,1
+1149,864,15,2025,4,20,Jeddah,Clear,31.6,1.1,1,1,start,1
+1149,852,8,2025,4,20,Jeddah,Clear,31.6,1.1,1,1,start,1
+1149,865,14,2025,4,20,Jeddah,Clear,31.6,1.1,1,1,start,1
+1149,848,11,2025,4,20,Jeddah,Clear,31.6,1.1,1,1,start,1
+1149,832,6,2025,4,20,Jeddah,Clear,31.6,1.1,1,1,start,1
+1149,807,18,2025,4,20,Jeddah,Clear,31.6,1.1,1,1,start,1
+1149,866,20,2025,4,20,Jeddah,Clear,31.6,1.1,1,1,start,1
+1150,846,2,2025,5,4,Miami,"Rain, Partially cloudy",24.7,67.0,1,1,mid,0
+1150,857,4,2025,5,4,Miami,"Rain, Partially cloudy",24.7,67.0,1,1,mid,0
+1150,830,1,2025,5,4,Miami,"Rain, Partially cloudy",24.7,67.0,1,1,mid,0
+1150,859,15,2025,5,4,Miami,"Rain, Partially cloudy",24.7,67.0,1,1,mid,0
+1150,847,5,2025,5,4,Miami,"Rain, Partially cloudy",24.7,67.0,1,1,mid,0
+1150,863,3,2025,5,4,Miami,"Rain, Partially cloudy",24.7,67.0,1,1,mid,0
+1150,844,8,2025,5,4,Miami,"Rain, Partially cloudy",24.7,67.0,1,1,mid,0
+1150,1,12,2025,5,4,Miami,"Rain, Partially cloudy",24.7,67.0,1,1,mid,0
+1150,4,17,2025,5,4,Miami,"Rain, Partially cloudy",24.7,67.0,1,1,mid,0
+1150,840,18,2025,5,4,Miami,"Rain, Partially cloudy",24.7,67.0,1,1,mid,0
+1150,842,20,2025,5,4,Miami,"Rain, Partially cloudy",24.7,67.0,1,1,mid,0
+1150,862,14,2025,5,4,Miami,"Rain, Partially cloudy",24.7,67.0,1,1,mid,0
+1150,839,9,2025,5,4,Miami,"Rain, Partially cloudy",24.7,67.0,1,1,mid,0
+1150,864,19,2025,5,4,Miami,"Rain, Partially cloudy",24.7,67.0,1,1,mid,0
+1150,852,10,2025,5,4,Miami,"Rain, Partially cloudy",24.7,67.0,1,1,mid,0
+1150,865,11,2025,5,4,Miami,"Rain, Partially cloudy",24.7,67.0,1,1,mid,0
+1150,848,7,2025,5,4,Miami,"Rain, Partially cloudy",24.7,67.0,1,1,mid,0
+1150,832,6,2025,5,4,Miami,"Rain, Partially cloudy",24.7,67.0,1,1,mid,0
+1150,807,16,2025,5,4,Miami,"Rain, Partially cloudy",24.7,67.0,1,1,mid,0
+1150,866,13,2025,5,4,Miami,"Rain, Partially cloudy",24.7,67.0,1,1,mid,0
+1151,846,4,2025,5,18,Imola,"Rain, Partially cloudy",18.1,44.7,1,0,mid,1
+1151,857,1,2025,5,18,Imola,"Rain, Partially cloudy",18.1,44.7,1,0,mid,1
+1151,830,2,2025,5,18,Imola,"Rain, Partially cloudy",18.1,44.7,1,0,mid,1
+1151,859,15,2025,5,18,Imola,"Rain, Partially cloudy",18.1,44.7,1,0,mid,1
+1151,847,3,2025,5,18,Imola,"Rain, Partially cloudy",18.1,44.7,1,0,mid,1
+1151,863,13,2025,5,18,Imola,"Rain, Partially cloudy",18.1,44.7,1,0,mid,1
+1151,844,11,2025,5,18,Imola,"Rain, Partially cloudy",18.1,44.7,1,0,mid,1
+1151,1,12,2025,5,18,Imola,"Rain, Partially cloudy",18.1,44.7,1,0,mid,1
+1151,4,5,2025,5,18,Imola,"Rain, Partially cloudy",18.1,44.7,1,0,mid,1
+1151,840,8,2025,5,18,Imola,"Rain, Partially cloudy",18.1,44.7,1,0,mid,1
+1151,842,10,2025,5,18,Imola,"Rain, Partially cloudy",18.1,44.7,1,0,mid,1
+1151,839,18,2025,5,18,Imola,"Rain, Partially cloudy",18.1,44.7,1,0,mid,1
+1151,864,19,2025,5,18,Imola,"Rain, Partially cloudy",18.1,44.7,1,0,mid,1
+1151,852,20,2025,5,18,Imola,"Rain, Partially cloudy",18.1,44.7,1,0,mid,1
+1151,865,9,2025,5,18,Imola,"Rain, Partially cloudy",18.1,44.7,1,0,mid,1
+1151,848,7,2025,5,18,Imola,"Rain, Partially cloudy",18.1,44.7,1,0,mid,1
+1151,832,6,2025,5,18,Imola,"Rain, Partially cloudy",18.1,44.7,1,0,mid,1
+1151,807,17,2025,5,18,Imola,"Rain, Partially cloudy",18.1,44.7,1,0,mid,1
+1151,866,14,2025,5,18,Imola,"Rain, Partially cloudy",18.1,44.7,1,0,mid,1
+1151,861,16,2025,5,18,Imola,"Rain, Partially cloudy",18.1,44.7,1,0,mid,1
+1152,846,1,2025,5,25,Monaco,Partially cloudy,14.0,32.0,1,0,mid,1
+1152,857,3,2025,5,25,Monaco,Partially cloudy,14.0,32.0,1,0,mid,1
+1152,830,4,2025,5,25,Monaco,Partially cloudy,14.0,32.0,1,0,mid,1
+1152,859,9,2025,5,25,Monaco,Partially cloudy,14.0,32.0,1,0,mid,1
+1152,847,14,2025,5,25,Monaco,Partially cloudy,14.0,32.0,1,0,mid,1
+1152,863,15,2025,5,25,Monaco,Partially cloudy,14.0,32.0,1,0,mid,1
+1152,844,2,2025,5,25,Monaco,Partially cloudy,14.0,32.0,1,0,mid,1
+1152,1,7,2025,5,25,Monaco,Partially cloudy,14.0,32.0,1,0,mid,1
+1152,4,6,2025,5,25,Monaco,Partially cloudy,14.0,32.0,1,0,mid,1
+1152,840,19,2025,5,25,Monaco,Partially cloudy,14.0,32.0,1,0,mid,1
+1152,842,17,2025,5,25,Monaco,Partially cloudy,14.0,32.0,1,0,mid,1
+1152,839,8,2025,5,25,Monaco,Partially cloudy,14.0,32.0,1,0,mid,1
+1152,864,20,2025,5,25,Monaco,Partially cloudy,14.0,32.0,1,0,mid,1
+1152,852,12,2025,5,25,Monaco,Partially cloudy,14.0,32.0,1,0,mid,1
+1152,865,5,2025,5,25,Monaco,Partially cloudy,14.0,32.0,1,0,mid,1
+1152,848,10,2025,5,25,Monaco,Partially cloudy,14.0,32.0,1,0,mid,1
+1152,832,11,2025,5,25,Monaco,Partially cloudy,14.0,32.0,1,0,mid,1
+1152,807,13,2025,5,25,Monaco,Partially cloudy,14.0,32.0,1,0,mid,1
+1152,866,16,2025,5,25,Monaco,Partially cloudy,14.0,32.0,1,0,mid,1
+1152,861,18,2025,5,25,Monaco,Partially cloudy,14.0,32.0,1,0,mid,1
+1153,846,2,2025,6,1,Barcelona,Partially cloudy,24.0,35.4,0,0,mid,1
+1153,857,1,2025,6,1,Barcelona,Partially cloudy,24.0,35.4,0,0,mid,1
+1153,830,3,2025,6,1,Barcelona,Partially cloudy,24.0,35.4,0,0,mid,1
+1153,859,13,2025,6,1,Barcelona,Partially cloudy,24.0,35.4,0,0,mid,1
+1153,847,4,2025,6,1,Barcelona,Partially cloudy,24.0,35.4,0,0,mid,1
+1153,863,6,2025,6,1,Barcelona,Partially cloudy,24.0,35.4,0,0,mid,1
+1153,844,7,2025,6,1,Barcelona,Partially cloudy,24.0,35.4,0,0,mid,1
+1153,1,5,2025,6,1,Barcelona,Partially cloudy,24.0,35.4,0,0,mid,1
+1153,4,10,2025,6,1,Barcelona,Partially cloudy,24.0,35.4,0,0,mid,1
+1153,840,14,2025,6,1,Barcelona,Partially cloudy,24.0,35.4,0,0,mid,1
+1153,842,8,2025,6,1,Barcelona,Partially cloudy,24.0,35.4,0,0,mid,1
+1153,839,17,2025,6,1,Barcelona,Partially cloudy,24.0,35.4,0,0,mid,1
+1153,864,15,2025,6,1,Barcelona,Partially cloudy,24.0,35.4,0,0,mid,1
+1153,852,20,2025,6,1,Barcelona,Partially cloudy,24.0,35.4,0,0,mid,1
+1153,865,9,2025,6,1,Barcelona,Partially cloudy,24.0,35.4,0,0,mid,1
+1153,848,11,2025,6,1,Barcelona,Partially cloudy,24.0,35.4,0,0,mid,1
+1153,832,18,2025,6,1,Barcelona,Partially cloudy,24.0,35.4,0,0,mid,1
+1153,807,16,2025,6,1,Barcelona,Partially cloudy,24.0,35.4,0,0,mid,1
+1153,866,12,2025,6,1,Barcelona,Partially cloudy,24.0,35.4,0,0,mid,1
+1153,861,19,2025,6,1,Barcelona,Partially cloudy,24.0,35.4,0,0,mid,1
+1154,846,7,2025,6,15,Montreal,Clear,18.5,0.1,1,1,mid,0
+1154,857,3,2025,6,15,Montreal,Clear,18.5,0.1,1,1,mid,0
+1154,830,2,2025,6,15,Montreal,Clear,18.5,0.1,1,1,mid,0
+1154,859,19,2025,6,15,Montreal,Clear,18.5,0.1,1,1,mid,0
+1154,847,1,2025,6,15,Montreal,Clear,18.5,0.1,1,1,mid,0
+1154,863,4,2025,6,15,Montreal,Clear,18.5,0.1,1,1,mid,0
+1154,844,8,2025,6,15,Montreal,Clear,18.5,0.1,1,1,mid,0
+1154,1,5,2025,6,15,Montreal,Clear,18.5,0.1,1,1,mid,0
+1154,4,6,2025,6,15,Montreal,Clear,18.5,0.1,1,1,mid,0
+1154,840,17,2025,6,15,Montreal,Clear,18.5,0.1,1,1,mid,0
+1154,842,20,2025,6,15,Montreal,Clear,18.5,0.1,1,1,mid,0
+1154,839,14,2025,6,15,Montreal,Clear,18.5,0.1,1,1,mid,0
+1154,864,13,2025,6,15,Montreal,Clear,18.5,0.1,1,1,mid,0
+1154,852,18,2025,6,15,Montreal,Clear,18.5,0.1,1,1,mid,0
+1154,865,12,2025,6,15,Montreal,Clear,18.5,0.1,1,1,mid,0
+1154,848,9,2025,6,15,Montreal,Clear,18.5,0.1,1,1,mid,0
+1154,832,16,2025,6,15,Montreal,Clear,18.5,0.1,1,1,mid,0
+1154,807,11,2025,6,15,Montreal,Clear,18.5,0.1,1,1,mid,0
+1154,866,15,2025,6,15,Montreal,Clear,18.5,0.1,1,1,mid,0
+1154,861,10,2025,6,15,Montreal,Clear,18.5,0.1,1,1,mid,0
+1155,846,1,2025,6,29,Spielberg,Clear,23.1,2.1,1,0,mid,1
+1155,857,3,2025,6,29,Spielberg,Clear,23.1,2.1,1,0,mid,1
+1155,830,7,2025,6,29,Spielberg,Clear,23.1,2.1,1,0,mid,1
+1155,859,6,2025,6,29,Spielberg,Clear,23.1,2.1,1,0,mid,1
+1155,847,5,2025,6,29,Spielberg,Clear,23.1,2.1,1,0,mid,1
+1155,863,9,2025,6,29,Spielberg,Clear,23.1,2.1,1,0,mid,1
+1155,844,2,2025,6,29,Spielberg,Clear,23.1,2.1,1,0,mid,1
+1155,1,4,2025,6,29,Spielberg,Clear,23.1,2.1,1,0,mid,1
+1155,4,11,2025,6,29,Spielberg,Clear,23.1,2.1,1,0,mid,1
+1155,840,16,2025,6,29,Spielberg,Clear,23.1,2.1,1,0,mid,1
+1155,842,10,2025,6,29,Spielberg,Clear,23.1,2.1,1,0,mid,1
+1155,839,17,2025,6,29,Spielberg,Clear,23.1,2.1,1,0,mid,1
+1155,864,15,2025,6,29,Spielberg,Clear,23.1,2.1,1,0,mid,1
+1155,852,18,2025,6,29,Spielberg,Clear,23.1,2.1,1,0,mid,1
+1155,865,13,2025,6,29,Spielberg,Clear,23.1,2.1,1,0,mid,1
+1155,848,12,2025,6,29,Spielberg,Clear,23.1,2.1,1,0,mid,1
+1155,832,19,2025,6,29,Spielberg,Clear,23.1,2.1,1,0,mid,1
+1155,807,20,2025,6,29,Spielberg,Clear,23.1,2.1,1,0,mid,1
+1155,866,8,2025,6,29,Spielberg,Clear,23.1,2.1,1,0,mid,1
+1155,861,14,2025,6,29,Spielberg,Clear,23.1,2.1,1,0,mid,1
+1156,846,3,2025,7,6,Silverstone,"Rain, Partially cloudy",16.4,75.1,1,0,mid,1
+1156,857,2,2025,7,6,Silverstone,"Rain, Partially cloudy",16.4,75.1,1,0,mid,1
+1156,830,1,2025,7,6,Silverstone,"Rain, Partially cloudy",16.4,75.1,1,0,mid,1
+1156,859,15,2025,7,6,Silverstone,"Rain, Partially cloudy",16.4,75.1,1,0,mid,1
+1156,847,4,2025,7,6,Silverstone,"Rain, Partially cloudy",16.4,75.1,1,0,mid,1
+1156,863,10,2025,7,6,Silverstone,"Rain, Partially cloudy",16.4,75.1,1,0,mid,1
+1156,844,6,2025,7,6,Silverstone,"Rain, Partially cloudy",16.4,75.1,1,0,mid,1
+1156,1,5,2025,7,6,Silverstone,"Rain, Partially cloudy",16.4,75.1,1,0,mid,1
+1156,4,7,2025,7,6,Silverstone,"Rain, Partially cloudy",16.4,75.1,1,0,mid,1
+1156,840,17,2025,7,6,Silverstone,"Rain, Partially cloudy",16.4,75.1,1,0,mid,1
+1156,842,8,2025,7,6,Silverstone,"Rain, Partially cloudy",16.4,75.1,1,0,mid,1
+1156,839,14,2025,7,6,Silverstone,"Rain, Partially cloudy",16.4,75.1,1,0,mid,1
+1156,864,18,2025,7,6,Silverstone,"Rain, Partially cloudy",16.4,75.1,1,0,mid,1
+1156,852,11,2025,7,6,Silverstone,"Rain, Partially cloudy",16.4,75.1,1,0,mid,1
+1156,865,12,2025,7,6,Silverstone,"Rain, Partially cloudy",16.4,75.1,1,0,mid,1
+1156,848,13,2025,7,6,Silverstone,"Rain, Partially cloudy",16.4,75.1,1,0,mid,1
+1156,832,9,2025,7,6,Silverstone,"Rain, Partially cloudy",16.4,75.1,1,0,mid,1
+1156,807,19,2025,7,6,Silverstone,"Rain, Partially cloudy",16.4,75.1,1,0,mid,1
+1156,866,16,2025,7,6,Silverstone,"Rain, Partially cloudy",16.4,75.1,1,0,mid,1
+1156,861,20,2025,7,6,Silverstone,"Rain, Partially cloudy",16.4,75.1,1,0,mid,1
+1157,846,1,2025,7,27,Spa,"Rain, Partially cloudy",15.1,47.0,1,0,mid,1
+1157,857,2,2025,7,27,Spa,"Rain, Partially cloudy",15.1,47.0,1,0,mid,1
+1157,830,4,2025,7,27,Spa,"Rain, Partially cloudy",15.1,47.0,1,0,mid,1
+1157,859,9,2025,7,27,Spa,"Rain, Partially cloudy",15.1,47.0,1,0,mid,1
+1157,847,6,2025,7,27,Spa,"Rain, Partially cloudy",15.1,47.0,1,0,mid,1
+1157,863,19,2025,7,27,Spa,"Rain, Partially cloudy",15.1,47.0,1,0,mid,1
+1157,844,3,2025,7,27,Spa,"Rain, Partially cloudy",15.1,47.0,1,0,mid,1
+1157,1,18,2025,7,27,Spa,"Rain, Partially cloudy",15.1,47.0,1,0,mid,1
+1157,4,20,2025,7,27,Spa,"Rain, Partially cloudy",15.1,47.0,1,0,mid,1
+1157,840,16,2025,7,27,Spa,"Rain, Partially cloudy",15.1,47.0,1,0,mid,1
+1157,842,13,2025,7,27,Spa,"Rain, Partially cloudy",15.1,47.0,1,0,mid,1
+1157,839,11,2025,7,27,Spa,"Rain, Partially cloudy",15.1,47.0,1,0,mid,1
+1157,864,12,2025,7,27,Spa,"Rain, Partially cloudy",15.1,47.0,1,0,mid,1
+1157,852,7,2025,7,27,Spa,"Rain, Partially cloudy",15.1,47.0,1,0,mid,1
+1157,865,8,2025,7,27,Spa,"Rain, Partially cloudy",15.1,47.0,1,0,mid,1
+1157,848,5,2025,7,27,Spa,"Rain, Partially cloudy",15.1,47.0,1,0,mid,1
+1157,832,17,2025,7,27,Spa,"Rain, Partially cloudy",15.1,47.0,1,0,mid,1
+1157,807,14,2025,7,27,Spa,"Rain, Partially cloudy",15.1,47.0,1,0,mid,1
+1157,866,10,2025,7,27,Spa,"Rain, Partially cloudy",15.1,47.0,1,0,mid,1
+1157,861,15,2025,7,27,Spa,"Rain, Partially cloudy",15.1,47.0,1,0,mid,1
+1158,846,3,2025,8,3,Budapest,"Rain, Partially cloudy",20.1,75.8,0,0,mid,1
+1158,857,2,2025,8,3,Budapest,"Rain, Partially cloudy",20.1,75.8,0,0,mid,1
+1158,830,8,2025,8,3,Budapest,"Rain, Partially cloudy",20.1,75.8,0,0,mid,1
+1158,859,9,2025,8,3,Budapest,"Rain, Partially cloudy",20.1,75.8,0,0,mid,1
+1158,847,4,2025,8,3,Budapest,"Rain, Partially cloudy",20.1,75.8,0,0,mid,1
+1158,863,15,2025,8,3,Budapest,"Rain, Partially cloudy",20.1,75.8,0,0,mid,1
+1158,844,1,2025,8,3,Budapest,"Rain, Partially cloudy",20.1,75.8,0,0,mid,1
+1158,1,12,2025,8,3,Budapest,"Rain, Partially cloudy",20.1,75.8,0,0,mid,1
+1158,4,5,2025,8,3,Budapest,"Rain, Partially cloudy",20.1,75.8,0,0,mid,1
+1158,840,6,2025,8,3,Budapest,"Rain, Partially cloudy",20.1,75.8,0,0,mid,1
+1158,842,16,2025,8,3,Budapest,"Rain, Partially cloudy",20.1,75.8,0,0,mid,1
+1158,839,17,2025,8,3,Budapest,"Rain, Partially cloudy",20.1,75.8,0,0,mid,1
+1158,864,11,2025,8,3,Budapest,"Rain, Partially cloudy",20.1,75.8,0,0,mid,1
+1158,852,20,2025,8,3,Budapest,"Rain, Partially cloudy",20.1,75.8,0,0,mid,1
+1158,865,10,2025,8,3,Budapest,"Rain, Partially cloudy",20.1,75.8,0,0,mid,1
+1158,848,19,2025,8,3,Budapest,"Rain, Partially cloudy",20.1,75.8,0,0,mid,1
+1158,832,13,2025,8,3,Budapest,"Rain, Partially cloudy",20.1,75.8,0,0,mid,1
+1158,807,18,2025,8,3,Budapest,"Rain, Partially cloudy",20.1,75.8,0,0,mid,1
+1158,866,7,2025,8,3,Budapest,"Rain, Partially cloudy",20.1,75.8,0,0,mid,1
+1158,861,14,2025,8,3,Budapest,"Rain, Partially cloudy",20.1,75.8,0,0,mid,1
+1159,846,2,2025,8,31,Zandvoort,"Rain, Partially cloudy",17.5,63.1,1,0,mid,0
+1159,857,1,2025,8,31,Zandvoort,"Rain, Partially cloudy",17.5,63.1,1,0,mid,0
+1159,830,3,2025,8,31,Zandvoort,"Rain, Partially cloudy",17.5,63.1,1,0,mid,0
+1159,859,8,2025,8,31,Zandvoort,"Rain, Partially cloudy",17.5,63.1,1,0,mid,0
+1159,847,5,2025,8,31,Zandvoort,"Rain, Partially cloudy",17.5,63.1,1,0,mid,0
+1159,863,11,2025,8,31,Zandvoort,"Rain, Partially cloudy",17.5,63.1,1,0,mid,0
+1159,844,6,2025,8,31,Zandvoort,"Rain, Partially cloudy",17.5,63.1,1,0,mid,0
+1159,1,7,2025,8,31,Zandvoort,"Rain, Partially cloudy",17.5,63.1,1,0,mid,0
+1159,4,10,2025,8,31,Zandvoort,"Rain, Partially cloudy",17.5,63.1,1,0,mid,0
+1159,840,19,2025,8,31,Zandvoort,"Rain, Partially cloudy",17.5,63.1,1,0,mid,0
+1159,842,14,2025,8,31,Zandvoort,"Rain, Partially cloudy",17.5,63.1,1,0,mid,0
+1159,839,18,2025,8,31,Zandvoort,"Rain, Partially cloudy",17.5,63.1,1,0,mid,0
+1159,864,20,2025,8,31,Zandvoort,"Rain, Partially cloudy",17.5,63.1,1,0,mid,0
+1159,852,12,2025,8,31,Zandvoort,"Rain, Partially cloudy",17.5,63.1,1,0,mid,0
+1159,865,4,2025,8,31,Zandvoort,"Rain, Partially cloudy",17.5,63.1,1,0,mid,0
+1159,848,15,2025,8,31,Zandvoort,"Rain, Partially cloudy",17.5,63.1,1,0,mid,0
+1159,832,9,2025,8,31,Zandvoort,"Rain, Partially cloudy",17.5,63.1,1,0,mid,0
+1159,807,17,2025,8,31,Zandvoort,"Rain, Partially cloudy",17.5,63.1,1,0,mid,0
+1159,866,13,2025,8,31,Zandvoort,"Rain, Partially cloudy",17.5,63.1,1,0,mid,0
+1159,861,16,2025,8,31,Zandvoort,"Rain, Partially cloudy",17.5,63.1,1,0,mid,0
+1160,846,2,2025,9,7,Monza,Clear,19.3,2.8,0,0,mid,0
+1160,857,3,2025,9,7,Monza,Clear,19.3,2.8,0,0,mid,0
+1160,830,1,2025,9,7,Monza,Clear,19.3,2.8,0,0,mid,0
+1160,859,18,2025,9,7,Monza,Clear,19.3,2.8,0,0,mid,0
+1160,847,5,2025,9,7,Monza,Clear,19.3,2.8,0,0,mid,0
+1160,863,6,2025,9,7,Monza,Clear,19.3,2.8,0,0,mid,0
+1160,844,4,2025,9,7,Monza,Clear,19.3,2.8,0,0,mid,0
+1160,1,10,2025,9,7,Monza,Clear,19.3,2.8,0,0,mid,0
+1160,4,8,2025,9,7,Monza,Clear,19.3,2.8,0,0,mid,0
+1160,840,16,2025,9,7,Monza,Clear,19.3,2.8,0,0,mid,0
+1160,842,20,2025,9,7,Monza,Clear,19.3,2.8,0,0,mid,0
+1160,839,15,2025,9,7,Monza,Clear,19.3,2.8,0,0,mid,0
+1160,864,11,2025,9,7,Monza,Clear,19.3,2.8,0,0,mid,0
+1160,852,9,2025,9,7,Monza,Clear,19.3,2.8,0,0,mid,0
+1160,865,19,2025,9,7,Monza,Clear,19.3,2.8,0,0,mid,0
+1160,848,14,2025,9,7,Monza,Clear,19.3,2.8,0,0,mid,0
+1160,832,13,2025,9,7,Monza,Clear,19.3,2.8,0,0,mid,0
+1160,807,12,2025,9,7,Monza,Clear,19.3,2.8,0,0,mid,0
+1160,866,7,2025,9,7,Monza,Clear,19.3,2.8,0,0,mid,0
+1160,861,17,2025,9,7,Monza,Clear,19.3,2.8,0,0,mid,0
+1161,846,7,2025,9,21,Baku,"Rain, Partially cloudy",18.6,49.4,0,1,mid,0
+1161,857,9,2025,9,21,Baku,"Rain, Partially cloudy",18.6,49.4,0,1,mid,0
+1161,830,1,2025,9,21,Baku,"Rain, Partially cloudy",18.6,49.4,0,1,mid,0
+1161,859,3,2025,9,21,Baku,"Rain, Partially cloudy",18.6,49.4,0,1,mid,0
+1161,847,5,2025,9,21,Baku,"Rain, Partially cloudy",18.6,49.4,0,1,mid,0
+1161,863,4,2025,9,21,Baku,"Rain, Partially cloudy",18.6,49.4,0,1,mid,0
+1161,844,10,2025,9,21,Baku,"Rain, Partially cloudy",18.6,49.4,0,1,mid,0
+1161,1,12,2025,9,21,Baku,"Rain, Partially cloudy",18.6,49.4,0,1,mid,0
+1161,4,11,2025,9,21,Baku,"Rain, Partially cloudy",18.6,49.4,0,1,mid,0
+1161,840,14,2025,9,21,Baku,"Rain, Partially cloudy",18.6,49.4,0,1,mid,0
+1161,842,18,2025,9,21,Baku,"Rain, Partially cloudy",18.6,49.4,0,1,mid,0
+1161,839,20,2025,9,21,Baku,"Rain, Partially cloudy",18.6,49.4,0,1,mid,0
+1161,864,15,2025,9,21,Baku,"Rain, Partially cloudy",18.6,49.4,0,1,mid,0
+1161,852,6,2025,9,21,Baku,"Rain, Partially cloudy",18.6,49.4,0,1,mid,0
+1161,865,8,2025,9,21,Baku,"Rain, Partially cloudy",18.6,49.4,0,1,mid,0
+1161,848,19,2025,9,21,Baku,"Rain, Partially cloudy",18.6,49.4,0,1,mid,0
+1161,832,2,2025,9,21,Baku,"Rain, Partially cloudy",18.6,49.4,0,1,mid,0
+1161,807,17,2025,9,21,Baku,"Rain, Partially cloudy",18.6,49.4,0,1,mid,0
+1161,866,13,2025,9,21,Baku,"Rain, Partially cloudy",18.6,49.4,0,1,mid,0
+1161,861,16,2025,9,21,Baku,"Rain, Partially cloudy",18.6,49.4,0,1,mid,0
+1162,846,5,2025,10,5,Singapore,Partially cloudy,29.1,88.7,0,0,mid,1
+1162,857,3,2025,10,5,Singapore,Partially cloudy,29.1,88.7,0,0,mid,1
+1162,830,2,2025,10,5,Singapore,Partially cloudy,29.1,88.7,0,0,mid,1
+1162,859,12,2025,10,5,Singapore,Partially cloudy,29.1,88.7,0,0,mid,1
+1162,847,1,2025,10,5,Singapore,Partially cloudy,29.1,88.7,0,0,mid,1
+1162,863,4,2025,10,5,Singapore,Partially cloudy,29.1,88.7,0,0,mid,1
+1162,844,7,2025,10,5,Singapore,Partially cloudy,29.1,88.7,0,0,mid,1
+1162,1,6,2025,10,5,Singapore,Partially cloudy,29.1,88.7,0,0,mid,1
+1162,4,10,2025,10,5,Singapore,Partially cloudy,29.1,88.7,0,0,mid,1
+1162,840,15,2025,10,5,Singapore,Partially cloudy,29.1,88.7,0,0,mid,1
+1162,842,19,2025,10,5,Singapore,Partially cloudy,29.1,88.7,0,0,mid,1
+1162,839,17,2025,10,5,Singapore,Partially cloudy,29.1,88.7,0,0,mid,1
+1162,864,9,2025,10,5,Singapore,Partially cloudy,29.1,88.7,0,0,mid,1
+1162,852,13,2025,10,5,Singapore,Partially cloudy,29.1,88.7,0,0,mid,1
+1162,865,8,2025,10,5,Singapore,Partially cloudy,29.1,88.7,0,0,mid,1
+1162,848,20,2025,10,5,Singapore,Partially cloudy,29.1,88.7,0,0,mid,1
+1162,832,18,2025,10,5,Singapore,Partially cloudy,29.1,88.7,0,0,mid,1
+1162,807,11,2025,10,5,Singapore,Partially cloudy,29.1,88.7,0,0,mid,1
+1162,866,14,2025,10,5,Singapore,Partially cloudy,29.1,88.7,0,0,mid,1
+1162,861,16,2025,10,5,Singapore,Partially cloudy,29.1,88.7,0,0,mid,1
+1163,846,2,2025,10,19,Austin,Clear,23.9,0.1,0,0,mid,1
+1163,857,6,2025,10,19,Austin,Clear,23.9,0.1,0,0,mid,1
+1163,830,1,2025,10,19,Austin,Clear,23.9,0.1,0,0,mid,1
+1163,859,12,2025,10,19,Austin,Clear,23.9,0.1,0,0,mid,1
+1163,847,4,2025,10,19,Austin,Clear,23.9,0.1,0,0,mid,1
+1163,863,7,2025,10,19,Austin,Clear,23.9,0.1,0,0,mid,1
+1163,844,3,2025,10,19,Austin,Clear,23.9,0.1,0,0,mid,1
+1163,1,5,2025,10,19,Austin,Clear,23.9,0.1,0,0,mid,1
+1163,4,10,2025,10,19,Austin,Clear,23.9,0.1,0,0,mid,1
+1163,840,19,2025,10,19,Austin,Clear,23.9,0.1,0,0,mid,1
+1163,842,14,2025,10,19,Austin,Clear,23.9,0.1,0,0,mid,1
+1163,839,17,2025,10,19,Austin,Clear,23.9,0.1,0,0,mid,1
+1163,864,8,2025,10,19,Austin,Clear,23.9,0.1,0,0,mid,1
+1163,852,13,2025,10,19,Austin,Clear,23.9,0.1,0,0,mid,1
+1163,865,20,2025,10,19,Austin,Clear,23.9,0.1,0,0,mid,1
+1163,848,18,2025,10,19,Austin,Clear,23.9,0.1,0,0,mid,1
+1163,832,9,2025,10,19,Austin,Clear,23.9,0.1,0,0,mid,1
+1163,807,11,2025,10,19,Austin,Clear,23.9,0.1,0,0,mid,1
+1163,866,16,2025,10,19,Austin,Clear,23.9,0.1,0,0,mid,1
+1163,861,15,2025,10,19,Austin,Clear,23.9,0.1,0,0,mid,1
+1164,846,1,2025,10,26,Mexico City,Clear,19.1,11.3,1,0,end,1
+1164,857,7,2025,10,26,Mexico City,Clear,19.1,11.3,1,0,end,1
+1164,830,5,2025,10,26,Mexico City,Clear,19.1,11.3,1,0,end,1
+1164,859,15,2025,10,26,Mexico City,Clear,19.1,11.3,1,0,end,1
+1164,847,4,2025,10,26,Mexico City,Clear,19.1,11.3,1,0,end,1
+1164,863,6,2025,10,26,Mexico City,Clear,19.1,11.3,1,0,end,1
+1164,844,2,2025,10,26,Mexico City,Clear,19.1,11.3,1,0,end,1
+1164,1,3,2025,10,26,Mexico City,Clear,19.1,11.3,1,0,end,1
+1164,4,14,2025,10,26,Mexico City,Clear,19.1,11.3,1,0,end,1
+1164,840,19,2025,10,26,Mexico City,Clear,19.1,11.3,1,0,end,1
+1164,842,18,2025,10,26,Mexico City,Clear,19.1,11.3,1,0,end,1
+1164,839,11,2025,10,26,Mexico City,Clear,19.1,11.3,1,0,end,1
+1164,864,9,2025,10,26,Mexico City,Clear,19.1,11.3,1,0,end,1
+1164,852,10,2025,10,26,Mexico City,Clear,19.1,11.3,1,0,end,1
+1164,865,8,2025,10,26,Mexico City,Clear,19.1,11.3,1,0,end,1
+1164,848,17,2025,10,26,Mexico City,Clear,19.1,11.3,1,0,end,1
+1164,832,12,2025,10,26,Mexico City,Clear,19.1,11.3,1,0,end,1
+1164,807,13,2025,10,26,Mexico City,Clear,19.1,11.3,1,0,end,1
+1164,866,16,2025,10,26,Mexico City,Clear,19.1,11.3,1,0,end,1
+1164,861,20,2025,10,26,Mexico City,Clear,19.1,11.3,1,0,end,1
+1165,846,1,2025,11,9,Sao Paulo,"Rain, Partially cloudy",15.7,84.6,0,0,end,1
+1165,857,4,2025,11,9,Sao Paulo,"Rain, Partially cloudy",15.7,84.6,0,0,end,1
+1165,830,19,2025,11,9,Sao Paulo,"Rain, Partially cloudy",15.7,84.6,0,0,end,1
+1165,859,7,2025,11,9,Sao Paulo,"Rain, Partially cloudy",15.7,84.6,0,0,end,1
+1165,847,6,2025,11,9,Sao Paulo,"Rain, Partially cloudy",15.7,84.6,0,0,end,1
+1165,863,2,2025,11,9,Sao Paulo,"Rain, Partially cloudy",15.7,84.6,0,0,end,1
+1165,844,3,2025,11,9,Sao Paulo,"Rain, Partially cloudy",15.7,84.6,0,0,end,1
+1165,1,13,2025,11,9,Sao Paulo,"Rain, Partially cloudy",15.7,84.6,0,0,end,1
+1165,4,11,2025,11,9,Sao Paulo,"Rain, Partially cloudy",15.7,84.6,0,0,end,1
+1165,840,14,2025,11,9,Sao Paulo,"Rain, Partially cloudy",15.7,84.6,0,0,end,1
+1165,842,9,2025,11,9,Sao Paulo,"Rain, Partially cloudy",15.7,84.6,0,0,end,1
+1165,839,20,2025,11,9,Sao Paulo,"Rain, Partially cloudy",15.7,84.6,0,0,end,1
+1165,864,8,2025,11,9,Sao Paulo,"Rain, Partially cloudy",15.7,84.6,0,0,end,1
+1165,852,17,2025,11,9,Sao Paulo,"Rain, Partially cloudy",15.7,84.6,0,0,end,1
+1165,865,5,2025,11,9,Sao Paulo,"Rain, Partially cloudy",15.7,84.6,0,0,end,1
+1165,848,12,2025,11,9,Sao Paulo,"Rain, Partially cloudy",15.7,84.6,0,0,end,1
+1165,832,15,2025,11,9,Sao Paulo,"Rain, Partially cloudy",15.7,84.6,0,0,end,1
+1165,807,10,2025,11,9,Sao Paulo,"Rain, Partially cloudy",15.7,84.6,0,0,end,1
+1165,866,18,2025,11,9,Sao Paulo,"Rain, Partially cloudy",15.7,84.6,0,0,end,1
+1165,861,16,2025,11,9,Sao Paulo,"Rain, Partially cloudy",15.7,84.6,0,0,end,1
+1166,846,1,2025,11,22,Las Vegas,"Rain, Partially cloudy",13.9,48.0,0,1,end,1
+1166,857,5,2025,11,22,Las Vegas,"Rain, Partially cloudy",13.9,48.0,0,1,end,1
+1166,830,2,2025,11,22,Las Vegas,"Rain, Partially cloudy",13.9,48.0,0,1,end,1
+1166,859,6,2025,11,22,Las Vegas,"Rain, Partially cloudy",13.9,48.0,0,1,end,1
+1166,847,4,2025,11,22,Las Vegas,"Rain, Partially cloudy",13.9,48.0,0,1,end,1
+1166,863,17,2025,11,22,Las Vegas,"Rain, Partially cloudy",13.9,48.0,0,1,end,1
+1166,844,9,2025,11,22,Las Vegas,"Rain, Partially cloudy",13.9,48.0,0,1,end,1
+1166,1,19,2025,11,22,Las Vegas,"Rain, Partially cloudy",13.9,48.0,0,1,end,1
+1166,4,7,2025,11,22,Las Vegas,"Rain, Partially cloudy",13.9,48.0,0,1,end,1
+1166,840,12,2025,11,22,Las Vegas,"Rain, Partially cloudy",13.9,48.0,0,1,end,1
+1166,842,10,2025,11,22,Las Vegas,"Rain, Partially cloudy",13.9,48.0,0,1,end,1
+1166,839,13,2025,11,22,Las Vegas,"Rain, Partially cloudy",13.9,48.0,0,1,end,1
+1166,864,14,2025,11,22,Las Vegas,"Rain, Partially cloudy",13.9,48.0,0,1,end,1
+1166,852,20,2025,11,22,Las Vegas,"Rain, Partially cloudy",13.9,48.0,0,1,end,1
+1166,865,8,2025,11,22,Las Vegas,"Rain, Partially cloudy",13.9,48.0,0,1,end,1
+1166,848,16,2025,11,22,Las Vegas,"Rain, Partially cloudy",13.9,48.0,0,1,end,1
+1166,832,3,2025,11,22,Las Vegas,"Rain, Partially cloudy",13.9,48.0,0,1,end,1
+1166,807,11,2025,11,22,Las Vegas,"Rain, Partially cloudy",13.9,48.0,0,1,end,1
+1166,866,18,2025,11,22,Las Vegas,"Rain, Partially cloudy",13.9,48.0,0,1,end,1
+1166,861,15,2025,11,22,Las Vegas,"Rain, Partially cloudy",13.9,48.0,0,1,end,1
+1167,846,2,2025,11,30,Lusail,Clear,23.1,4.4,1,0,end,1
+1167,857,1,2025,11,30,Lusail,Clear,23.1,4.4,1,0,end,1
+1167,830,3,2025,11,30,Lusail,Clear,23.1,4.4,1,0,end,1
+1167,859,12,2025,11,30,Lusail,Clear,23.1,4.4,1,0,end,1
+1167,847,4,2025,11,30,Lusail,Clear,23.1,4.4,1,0,end,1
+1167,863,5,2025,11,30,Lusail,Clear,23.1,4.4,1,0,end,1
+1167,844,10,2025,11,30,Lusail,Clear,23.1,4.4,1,0,end,1
+1167,1,17,2025,11,30,Lusail,Clear,23.1,4.4,1,0,end,1
+1167,4,8,2025,11,30,Lusail,Clear,23.1,4.4,1,0,end,1
+1167,840,18,2025,11,30,Lusail,Clear,23.1,4.4,1,0,end,1
+1167,842,9,2025,11,30,Lusail,Clear,23.1,4.4,1,0,end,1
+1167,839,16,2025,11,30,Lusail,Clear,23.1,4.4,1,0,end,1
+1167,864,13,2025,11,30,Lusail,Clear,23.1,4.4,1,0,end,1
+1167,852,15,2025,11,30,Lusail,Clear,23.1,4.4,1,0,end,1
+1167,865,6,2025,11,30,Lusail,Clear,23.1,4.4,1,0,end,1
+1167,848,14,2025,11,30,Lusail,Clear,23.1,4.4,1,0,end,1
+1167,832,7,2025,11,30,Lusail,Clear,23.1,4.4,1,0,end,1
+1167,807,11,2025,11,30,Lusail,Clear,23.1,4.4,1,0,end,1
+1167,866,19,2025,11,30,Lusail,Clear,23.1,4.4,1,0,end,1
+1167,861,20,2025,11,30,Lusail,Clear,23.1,4.4,1,0,end,1
+1168,846,2,2025,12,7,Abu Dhabi,Clear,24.4,12.5,0,0,end,1
+1168,857,3,2025,12,7,Abu Dhabi,Clear,24.4,12.5,0,0,end,1
+1168,830,1,2025,12,7,Abu Dhabi,Clear,24.4,12.5,0,0,end,1
+1168,859,13,2025,12,7,Abu Dhabi,Clear,24.4,12.5,0,0,end,1
+1168,847,4,2025,12,7,Abu Dhabi,Clear,24.4,12.5,0,0,end,1
+1168,863,14,2025,12,7,Abu Dhabi,Clear,24.4,12.5,0,0,end,1
+1168,844,5,2025,12,7,Abu Dhabi,Clear,24.4,12.5,0,0,end,1
+1168,1,16,2025,12,7,Abu Dhabi,Clear,24.4,12.5,0,0,end,1
+1168,4,6,2025,12,7,Abu Dhabi,Clear,24.4,12.5,0,0,end,1
+1168,840,15,2025,12,7,Abu Dhabi,Clear,24.4,12.5,0,0,end,1
+1168,842,19,2025,12,7,Abu Dhabi,Clear,24.4,12.5,0,0,end,1
+1168,839,8,2025,12,7,Abu Dhabi,Clear,24.4,12.5,0,0,end,1
+1168,864,11,2025,12,7,Abu Dhabi,Clear,24.4,12.5,0,0,end,1
+1168,852,10,2025,12,7,Abu Dhabi,Clear,24.4,12.5,0,0,end,1
+1168,865,9,2025,12,7,Abu Dhabi,Clear,24.4,12.5,0,0,end,1
+1168,848,17,2025,12,7,Abu Dhabi,Clear,24.4,12.5,0,0,end,1
+1168,832,12,2025,12,7,Abu Dhabi,Clear,24.4,12.5,0,0,end,1
+1168,807,18,2025,12,7,Abu Dhabi,Clear,24.4,12.5,0,0,end,1
+1168,866,7,2025,12,7,Abu Dhabi,Clear,24.4,12.5,0,0,end,1
+1168,861,20,2025,12,7,Abu Dhabi,Clear,24.4,12.5,0,0,end,1

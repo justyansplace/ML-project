@@ -1,0 +1,545 @@
+raceId,location,date,safety_car_race,weather_conditions,temp_avg,cloud_cover
+841,Melbourne,2011-03-27,1,"Rain, Partially cloudy",14.8,79.3
+842,Kuala Lumpur,2011-04-10,0,"Rain, Overcast",27.4,90.6
+843,Shanghai,2011-04-17,0,Partially cloudy,14.6,73.3
+844,Istanbul,2011-05-08,0,Partially cloudy,12.0,52.3
+845,Montmeló,2011-05-22,0,Partially cloudy,20.3,28.5
+846,Monte-Carlo,2011-05-29,1,Clear,19.9,13.6
+847,Montreal,2011-06-12,1,"Rain, Overcast",15.5,94.8
+848,Valencia,2011-06-26,0,"Rain, Partially cloudy",25.5,71.7
+849,Silverstone,2011-07-10,0,"Rain, Partially cloudy",15.6,48.7
+850,Nürburg,2011-07-24,0,"Rain, Partially cloudy",10.5,85.9
+851,Budapest,2011-07-31,0,"Rain, Overcast",16.2,90.8
+852,Spa,2011-08-28,1,"Rain, Partially cloudy",11.0,76.3
+853,Monza,2011-09-11,1,Partially cloudy,23.8,29.1
+854,Marina Bay,2011-09-25,1,"Rain, Partially cloudy",18.4,76.1
+855,Suzuka,2011-10-09,1,Partially cloudy,17.1,32.9
+856,Yeongam County,2011-10-16,1,Partially cloudy,17.0,24.6
+857,Uttar Pradesh,2011-10-30,0,Clear,21.8,0.0
+858,Abu Dhabi,2011-11-13,0,Clear,22.9,6.0
+859,São Paulo,2011-11-27,0,"Rain, Partially cloudy",21.3,71.0
+860,Melbourne,2012-03-18,1,"Rain, Partially cloudy",16.2,54.1
+861,Kuala Lumpur,2012-03-25,1,"Rain, Partially cloudy",29.0,89.0
+862,Shanghai,2012-04-15,0,"Rain, Partially cloudy",16.1,52.7
+863,Sakhir,2012-04-22,0,Partially cloudy,30.3,36.3
+864,Montmeló,2012-05-13,0,"Rain, Partially cloudy",20.2,46.8
+865,Monte-Carlo,2012-05-27,1,"Rain, Partially cloudy",18.4,64.6
+866,Montreal,2012-06-10,0,Clear,21.3,17.5
+867,Valencia,2012-06-24,1,"Rain, Partially cloudy",26.2,63.4
+868,Silverstone,2012-07-08,0,"Rain, Partially cloudy",15.0,48.6
+869,Hockenheim,2012-07-22,0,"Rain, Partially cloudy",15.6,24.5
+870,Budapest,2012-07-29,0,"Rain, Partially cloudy",24.8,65.3
+871,Spa,2012-09-02,1,Partially cloudy,11.6,27.1
+872,Monza,2012-09-09,0,Clear,22.5,12.4
+873,Marina Bay,2012-09-23,1,Partially cloudy,16.7,26.0
+874,Suzuka,2012-10-07,1,"Rain, Partially cloudy",20.3,25.2
+875,Yeongam County,2012-10-14,0,Partially cloudy,16.4,42.9
+876,Uttar Pradesh,2012-10-28,0,Clear,22.4,0.0
+877,Abu Dhabi,2012-11-04,1,Clear,28.2,11.2
+878,Austin,2012-11-18,0,Clear,15.4,8.3
+879,São Paulo,2012-11-25,0,Overcast,19.5,94.2
+881,Kuala Lumpur,2013-03-24,1,"Rain, Partially cloudy",27.7,89.7
+880,Melbourne,2013-03-17,0,"Rain, Partially cloudy",13.5,82.9
+882,Shanghai,2013-04-14,0,Partially cloudy,19.2,34.9
+883,Sakhir,2013-04-21,0,Clear,23.4,5.6
+884,Montmeló,2013-05-12,0,"Rain, Partially cloudy",16.3,61.3
+885,Monte-Carlo,2013-05-26,1,Clear,14.4,8.1
+886,Montreal,2013-06-09,0,"Rain, Partially cloudy",18.5,56.2
+887,Silverstone,2013-06-30,1,Partially cloudy,17.0,53.2
+888,Nürburg,2013-07-07,1,Clear,20.1,12.4
+890,Budapest,2013-07-28,0,Partially cloudy,29.0,26.7
+891,Spa,2013-08-25,0,"Rain, Partially cloudy",13.0,79.7
+892,Monza,2013-09-08,0,"Rain, Partially cloudy",21.9,70.9
+893,Marina Bay,2013-09-22,1,"Rain, Partially cloudy",16.5,26.9
+894,Yeongam County,2013-10-06,1,Partially cloudy,23.5,45.7
+895,Suzuka,2013-10-13,0,Clear,18.5,3.1
+896,Uttar Pradesh,2013-10-27,0,Clear,24.9,16.1
+897,Abu Dhabi,2013-11-03,0,Clear,29.5,10.4
+898,Austin,2013-11-17,1,Partially cloudy,25.3,45.7
+899,São Paulo,2013-11-24,0,"Rain, Overcast",19.7,98.8
+900,Melbourne,2014-03-16,1,"Rain, Partially cloudy",15.2,58.3
+901,Kuala Lumpur,2014-03-30,0,"Rain, Partially cloudy",28.2,88.6
+902,Sakhir,2014-04-06,1,Clear,23.7,0.0
+903,Shanghai,2014-04-20,0,Partially cloudy,14.9,86.9
+904,Montmeló,2014-05-11,0,"Rain, Partially cloudy",19.0,42.5
+905,Monte-Carlo,2014-05-25,1,Partially cloudy,17.3,70.2
+906,Montreal,2014-06-08,1,Clear,22.1,15.7
+907,Spielberg,2014-06-22,0,Partially cloudy,17.8,28.3
+908,Silverstone,2014-07-06,1,"Rain, Partially cloudy",15.0,55.4
+909,Hockenheim,2014-07-20,1,"Rain, Partially cloudy",23.4,89.5
+910,Budapest,2014-07-27,1,"Rain, Partially cloudy",23.0,58.7
+911,Spa,2014-08-24,0,"Rain, Partially cloudy",9.6,61.3
+912,Monza,2014-09-07,0,"Rain, Partially cloudy",21.5,47.7
+913,Marina Bay,2014-09-21,1,Partially cloudy,19.2,79.4
+914,Suzuka,2014-10-05,1,"Rain, Overcast",18.6,100.0
+915,Sochi,2014-10-12,0,Clear,16.7,18.5
+916,Austin,2014-11-02,1,Partially cloudy,15.7,21.5
+926,Melbourne,2015-03-15,1,"Rain, Partially cloudy",15.6,66.6
+918,Abu Dhabi,2014-11-23,0,Clear,24.1,12.0
+927,Kuala Lumpur,2015-03-29,1,Partially cloudy,28.2,89.4
+928,Shanghai,2015-04-12,1,"Rain, Partially cloudy",16.0,63.9
+929,Sakhir,2015-04-19,0,Clear,24.2,6.3
+930,Montmeló,2015-05-10,0,Partially cloudy,21.2,36.5
+931,Monte-Carlo,2015-05-24,1,"Rain, Partially cloudy",18.0,86.4
+932,Montreal,2015-06-07,0,Partially cloudy,17.3,50.1
+933,Spielberg,2015-06-21,1,"Rain, Partially cloudy",11.8,77.0
+934,Silverstone,2015-07-05,1,"Rain, Partially cloudy",15.4,50.9
+936,Budapest,2015-07-26,1,"Rain, Partially cloudy",21.6,60.4
+937,Spa,2015-08-23,1,"Rain, Partially cloudy",17.1,28.6
+938,Monza,2015-09-06,0,Rain,17.0,7.3
+939,Marina Bay,2015-09-20,1,Clear,23.9,13.2
+940,Suzuka,2015-09-27,0,"Rain, Partially cloudy",22.5,58.4
+941,Sochi,2015-10-11,1,Partially cloudy,14.1,68.7
+942,Austin,2015-10-25,0,"Rain, Overcast",15.8,99.5
+943,Mexico City,2015-11-01,1,"Rain, Partially cloudy",16.7,74.1
+944,São Paulo,2015-11-15,0,"Rain, Partially cloudy",22.4,71.8
+945,Abu Dhabi,2015-11-29,0,"Rain, Partially cloudy",24.5,29.5
+948,Melbourne,2016-03-20,1,"Rain, Partially cloudy",16.6,33.7
+949,Sakhir,2016-04-03,0,"Rain, Partially cloudy",20.6,75.7
+224,Melbourne,1996-03-10,1,Rain,17.6,8.0
+225,São Paulo,1996-03-31,0,Partially cloudy,25.2,72.7
+226,Buenos Aires,1996-04-07,1,Partially cloudy,16.4,25.5
+227,Nürburg,1996-04-28,1,"Rain, Partially cloudy",11.3,79.9
+228,Imola,1996-05-05,0,Partially cloudy,15.2,54.9
+229,Monte-Carlo,1996-05-19,0,"Rain, Partially cloudy",16.6,74.5
+230,Montmeló,1996-06-02,1,Overcast,15.6,94.6
+231,Montreal,1996-06-16,0,"Rain, Partially cloudy",16.7,62.6
+232,Magny Cours,1996-06-30,0,Partially cloudy,16.0,67.6
+233,Silverstone,1996-07-14,0,"Rain, Partially cloudy",19.3,76.3
+234,Hockenheim,1996-07-28,1,Partially cloudy,22.0,75.0
+235,Budapest,1996-08-11,0,Partially cloudy,21.6,44.5
+236,Spa,1996-08-25,1,"Rain, Partially cloudy",13.9,70.1
+237,Monza,1996-09-08,0,Clear,15.1,5.5
+238,Estoril,1996-09-22,0,Partially cloudy,18.2,31.7
+239,Suzuka,1996-10-13,1,Partially cloudy,18.6,52.9
+207,Melbourne,1997-03-09,1,Partially cloudy,15.2,67.6
+208,São Paulo,1997-03-30,0,Partially cloudy,19.0,80.8
+209,Buenos Aires,1997-04-13,1,Partially cloudy,23.7,39.3
+210,Imola,1997-04-27,0,"Rain, Overcast",14.2,91.1
+211,Monte-Carlo,1997-05-11,0,Partially cloudy,14.8,73.0
+212,Montmeló,1997-05-25,0,Partially cloudy,20.0,74.4
+213,Montreal,1997-06-15,1,"Rain, Partially cloudy",16.9,43.1
+214,Magny Cours,1997-06-29,1,"Rain, Partially cloudy",14.4,89.2
+215,Silverstone,1997-07-13,1,"Rain, Partially cloudy",17.5,69.0
+216,Hockenheim,1997-07-27,0,Partially cloudy,21.8,87.4
+217,Budapest,1997-08-10,1,"Rain, Partially cloudy",20.6,44.3
+218,Spa,1997-08-24,1,Partially cloudy,22.2,49.8
+219,Monza,1997-09-07,1,"Rain, Partially cloudy",22.4,43.6
+220,Spielberg,1997-09-21,0,Partially cloudy,9.3,63.9
+221,Nürburg,1997-09-28,1,Partially cloudy,13.3,54.3
+222,Suzuka,1997-10-12,0,Partially cloudy,14.8,48.4
+223,Jerez de la Frontera,1997-10-26,0,Partially cloudy,20.0,27.7
+191,Melbourne,1998-03-08,0,Clear,14.4,3.4
+192,São Paulo,1998-03-29,0,Overcast,22.5,93.7
+193,Buenos Aires,1998-04-12,0,"Rain, Overcast",18.8,99.1
+194,Imola,1998-04-26,1,Clear,17.6,13.6
+195,Montmeló,1998-05-10,1,Partially cloudy,17.6,59.6
+196,Monte-Carlo,1998-05-24,1,Partially cloudy,18.3,57.9
+197,Montreal,1998-06-07,1,Overcast,12.7,98.2
+198,Magny Cours,1998-06-28,1,"Rain, Partially cloudy",17.7,80.9
+199,Silverstone,1998-07-12,1,"Rain, Overcast",16.2,93.9
+200,Spielberg,1998-07-26,1,"Rain, Partially cloudy",20.9,57.6
+201,Hockenheim,1998-08-02,1,Overcast,19.9,96.0
+202,Budapest,1998-08-16,0,Partially cloudy,26.9,71.1
+203,Spa,1998-08-30,1,"Rain, Overcast",11.1,98.7
+204,Monza,1998-09-13,1,Partially cloudy,14.8,48.6
+205,Nürburg,1998-09-27,1,"Rain, Partially cloudy",13.0,85.8
+206,Suzuka,1998-11-01,0,Partially cloudy,16.4,63.7
+175,Melbourne,1999-03-07,1,Partially cloudy,16.5,72.9
+176,São Paulo,1999-04-11,0,Partially cloudy,19.8,78.6
+177,Imola,1999-05-02,1,Partially cloudy,17.8,46.4
+178,Monte-Carlo,1999-05-16,1,Partially cloudy,19.1,55.2
+179,Montmeló,1999-05-30,1,Partially cloudy,20.8,78.6
+180,Montreal,1999-06-13,1,Clear,24.8,15.4
+181,Magny Cours,1999-06-27,1,"Rain, Overcast",16.5,91.8
+182,Silverstone,1999-07-11,1,Partially cloudy,19.7,28.2
+183,Spielberg,1999-07-25,1,Partially cloudy,16.3,77.1
+184,Hockenheim,1999-08-01,0,Partially cloudy,24.7,76.7
+185,Budapest,1999-08-15,1,Partially cloudy,18.9,50.0
+186,Spa,1999-08-29,0,Partially cloudy,15.3,34.7
+187,Monza,1999-09-12,1,Clear,22.1,13.6
+188,Nürburg,1999-09-26,1,Partially cloudy,13.3,88.0
+189,Kuala Lumpur,1999-10-17,1,"Rain, Partially cloudy",27.9,90.0
+190,Suzuka,1999-10-31,0,Partially cloudy,15.3,67.0
+158,Melbourne,2000-03-12,1,Partially cloudy,21.8,67.7
+159,São Paulo,2000-03-26,0,Overcast,22.3,91.2
+160,Imola,2000-04-09,0,Partially cloudy,11.3,74.8
+161,Silverstone,2000-04-23,0,"Rain, Partially cloudy",8.7,79.3
+162,Montmeló,2000-05-07,1,Partially cloudy,17.1,73.2
+163,Nürburg,2000-05-21,1,"Rain, Partially cloudy",7.9,74.8
+164,Monte-Carlo,2000-06-04,0,Clear,22.8,15.5
+165,Montreal,2000-06-18,1,"Rain, Partially cloudy",14.1,56.5
+166,Magny Cours,2000-07-02,1,"Rain, Partially cloudy",22.8,68.5
+167,Spielberg,2000-07-16,1,"Rain, Partially cloudy",13.9,75.3
+168,Hockenheim,2000-07-30,1,,,
+169,Budapest,2000-08-13,1,Partially cloudy,26.5,43.6
+170,Spa,2000-08-27,1,"Rain, Partially cloudy",15.6,79.6
+171,Monza,2000-09-10,1,Clear,19.8,7.3
+172,Indianapolis,2000-09-24,1,"Rain, Overcast",14.5,100.0
+173,Suzuka,2000-10-08,0,"Rain, Overcast",19.1,95.7
+174,Kuala Lumpur,2000-10-22,1,"Rain, Overcast",28.5,90.6
+141,Melbourne,2001-03-04,1,"Rain, Partially cloudy",20.1,81.3
+142,Kuala Lumpur,2001-03-18,1,"Rain, Partially cloudy",27.8,90.0
+143,São Paulo,2001-04-01,0,Partially cloudy,22.7,68.1
+144,Imola,2001-04-15,1,Partially cloudy,8.4,63.1
+145,Montmeló,2001-04-29,1,Partially cloudy,14.7,69.8
+146,Spielberg,2001-05-13,1,Partially cloudy,13.6,23.7
+147,Monte-Carlo,2001-05-27,1,Partially cloudy,21.8,34.4
+148,Montreal,2001-06-10,1,Partially cloudy,20.9,26.8
+149,Nürburg,2001-06-24,0,Rain,16.9,19.6
+150,Magny Cours,2001-07-01,1,Partially cloudy,19.5,23.9
+151,Silverstone,2001-07-15,1,Rain,12.7,10.0
+152,Hockenheim,2001-07-29,0,Overcast,28.6,100.0
+153,Budapest,2001-08-19,1,Partially cloudy,25.2,31.9
+154,Spa,2001-09-02,1,"Rain, Partially cloudy",11.2,73.1
+155,Monza,2001-09-16,0,Partially cloudy,16.3,47.5
+156,Indianapolis,2001-09-30,0,Clear,14.9,0.0
+157,Suzuka,2001-10-14,0,Partially cloudy,17.3,33.5
+124,Melbourne,2002-03-03,1,"Rain, Overcast",15.3,94.2
+125,Kuala Lumpur,2002-03-17,1,Partially cloudy,29.0,90.0
+126,São Paulo,2002-03-31,1,Partially cloudy,25.7,26.8
+127,Imola,2002-04-14,0,"Rain, Partially cloudy",12.4,70.6
+128,Montmeló,2002-04-28,1,Partially cloudy,14.6,73.4
+129,Spielberg,2002-05-12,1,"Rain, Partially cloudy",16.0,48.2
+130,Monte-Carlo,2002-05-26,1,Partially cloudy,18.6,35.5
+131,Montreal,2002-06-09,1,Partially cloudy,19.7,57.4
+132,Nürburg,2002-06-23,0,"Rain, Partially cloudy",17.3,62.2
+133,Silverstone,2002-07-07,0,"Rain, Partially cloudy",15.4,78.4
+134,Magny Cours,2002-07-21,1,Partially cloudy,19.7,43.5
+135,Hockenheim,2002-07-28,0,Clear,24.8,10.0
+136,Budapest,2002-08-18,0,Partially cloudy,23.6,20.6
+137,Spa,2002-09-01,1,Partially cloudy,13.7,78.4
+138,Monza,2002-09-15,1,Clear,18.2,3.5
+139,Indianapolis,2002-09-29,0,Clear,19.8,6.3
+140,Suzuka,2002-10-13,1,Clear,18.8,4.5
+108,Melbourne,2003-03-09,1,"Rain, Partially cloudy",16.5,86.5
+109,Kuala Lumpur,2003-03-23,1,Partially cloudy,29.5,90.0
+110,São Paulo,2003-04-06,1,Overcast,20.6,91.2
+111,Imola,2003-04-20,0,"Rain, Partially cloudy",12.6,71.7
+112,Montmeló,2003-05-04,1,Partially cloudy,17.9,36.7
+113,Spielberg,2003-05-18,1,"Rain, Partially cloudy",13.5,39.0
+114,Monte-Carlo,2003-06-01,1,Partially cloudy,19.9,58.5
+115,Montreal,2003-06-15,0,"Rain, Partially cloudy",16.5,61.8
+116,Nürburg,2003-06-29,0,Partially cloudy,18.5,45.5
+117,Magny Cours,2003-07-06,0,"Rain, Partially cloudy",16.8,35.9
+118,Silverstone,2003-07-20,1,Partially cloudy,17.9,40.7
+119,Hockenheim,2003-08-03,1,,,
+120,Budapest,2003-08-24,0,Clear,23.8,8.9
+121,Monza,2003-09-14,1,"Rain, Partially cloudy",18.8,49.5
+122,Indianapolis,2003-09-28,0,"Rain, Partially cloudy",9.8,87.9
+123,Suzuka,2003-10-12,0,"Rain, Overcast",20.1,97.9
+90,Melbourne,2004-03-07,1,"Rain, Overcast",15.1,91.3
+91,Kuala Lumpur,2004-03-21,0,Partially cloudy,29.1,90.0
+92,Sakhir,2004-04-04,0,,,
+93,Imola,2004-04-25,0,"Rain, Partially cloudy",12.3,48.4
+94,Montmeló,2004-05-09,0,Partially cloudy,14.2,43.2
+95,Monte-Carlo,2004-05-23,1,"Rain, Partially cloudy",17.7,59.8
+96,Nürburg,2004-05-30,0,Partially cloudy,15.6,86.0
+97,Montreal,2004-06-13,0,Partially cloudy,20.0,40.0
+98,Indianapolis,2004-06-20,1,Partially cloudy,17.7,50.0
+99,Magny Cours,2004-07-04,0,Partially cloudy,17.7,37.8
+100,Silverstone,2004-07-11,1,"Rain, Partially cloudy",13.1,82.1
+101,Hockenheim,2004-07-25,0,Partially cloudy,21.1,90.0
+102,Budapest,2004-08-15,0,"Rain, Partially cloudy",18.8,24.9
+103,Spa,2004-08-29,1,Partially cloudy,14.8,87.0
+104,Monza,2004-09-12,0,"Rain, Partially cloudy",19.8,67.9
+105,Shanghai,2004-09-26,0,Partially cloudy,23.8,68.1
+106,Suzuka,2004-10-10,0,"Rain, Partially cloudy",21.9,82.6
+107,São Paulo,2004-10-24,1,Partially cloudy,21.6,86.8
+71,Melbourne,2005-03-06,0,Partially cloudy,13.1,84.0
+72,Kuala Lumpur,2005-03-20,0,Partially cloudy,29.8,90.0
+73,Sakhir,2005-04-03,0,,,
+74,Imola,2005-04-24,0,"Rain, Overcast",13.8,90.2
+75,Montmeló,2005-05-08,1,Partially cloudy,17.2,28.5
+76,Monte-Carlo,2005-05-22,1,Partially cloudy,18.7,82.8
+77,Nürburg,2005-05-29,0,Partially cloudy,19.0,55.5
+78,Montreal,2005-06-12,1,Partially cloudy,27.1,21.3
+79,Indianapolis,2005-06-19,1,Partially cloudy,19.9,48.8
+80,Magny Cours,2005-07-03,1,"Rain, Partially cloudy",22.0,24.3
+81,Silverstone,2005-07-10,1,Partially cloudy,20.4,44.1
+82,Hockenheim,2005-07-24,1,Partially cloudy,21.4,81.3
+83,Budapest,2005-07-31,1,Partially cloudy,26.7,43.8
+84,Istanbul,2005-08-21,1,"Rain, Partially cloudy",23.3,62.3
+85,Monza,2005-09-04,0,"Rain, Partially cloudy",23.0,51.7
+86,Spa,2005-09-11,1,"Rain, Overcast",14.7,90.2
+87,São Paulo,2005-09-25,1,"Rain, Partially cloudy",19.7,66.0
+88,Suzuka,2005-10-09,1,Rain,20.5,
+89,Shanghai,2005-10-16,1,Clear,18.5,0.5
+53,Sakhir,2006-03-12,1,,,
+54,Kuala Lumpur,2006-03-19,1,"Rain, Partially cloudy",27.8,90.0
+55,Melbourne,2006-04-02,1,"Rain, Partially cloudy",12.9,77.9
+56,Imola,2006-04-23,1,Clear,18.1,
+57,Nürburg,2006-05-07,1,Partially cloudy,15.3,75.6
+58,Montmeló,2006-05-14,1,Partially cloudy,19.5,60.3
+59,Monte-Carlo,2006-05-28,1,Partially cloudy,19.3,42.5
+60,Silverstone,2006-06-11,1,Partially cloudy,20.6,26.4
+61,Montreal,2006-06-25,1,Partially cloudy,22.5,29.6
+62,Indianapolis,2006-07-02,1,"Rain, Partially cloudy",27.0,38.2
+63,Magny Cours,2006-07-16,1,Clear,25.7,9.2
+64,Hockenheim,2006-07-30,0,Partially cloudy,25.5,47.1
+65,Budapest,2006-08-06,1,"Rain, Partially cloudy",16.5,81.4
+66,Istanbul,2006-08-27,1,Clear,27.0,0.0
+67,Monza,2006-09-10,0,Clear,20.3,20.0
+68,Shanghai,2006-10-01,0,"Rain, Overcast",20.7,95.2
+69,Suzuka,2006-10-08,0,Partially cloudy,18.8,51.5
+70,São Paulo,2006-10-22,1,Partially cloudy,16.6,41.8
+36,Melbourne,2007-03-18,0,Partially cloudy,15.3,54.6
+37,Kuala Lumpur,2007-04-08,0,Partially cloudy,28.6,90.0
+38,Sakhir,2007-04-15,1,,,
+39,Montmeló,2007-05-13,1,Clear,19.8,16.6
+40,Monte-Carlo,2007-05-27,0,"Rain, Partially cloudy",20.4,40.9
+41,Montreal,2007-06-10,1,Partially cloudy,21.6,30.4
+42,Indianapolis,2007-06-17,0,Partially cloudy,28.4,39.6
+43,Magny Cours,2007-07-01,0,"Rain, Partially cloudy",18.3,64.4
+44,Silverstone,2007-07-08,1,"Rain, Partially cloudy",14.2,35.0
+45,Nürburg,2007-07-22,1,"Rain, Partially cloudy",15.6,57.9
+46,Budapest,2007-08-05,0,Partially cloudy,21.4,56.4
+47,Istanbul,2007-08-26,1,Partially cloudy,27.8,37.1
+48,Monza,2007-09-09,1,Partially cloudy,19.6,25.7
+49,Spa,2007-09-16,0,Partially cloudy,14.4,30.5
+50,Oyama,2007-09-30,0,"Rain, Overcast",15.8,99.8
+51,Shanghai,2007-10-07,0,Overcast,27.3,94.0
+52,São Paulo,2007-10-21,1,"Rain, Partially cloudy",25.6,59.1
+18,Melbourne,2008-03-16,1,Clear,27.3,13.7
+19,Kuala Lumpur,2008-03-23,0,"Rain, Overcast",26.6,91.1
+20,Sakhir,2008-04-06,0,,,
+21,Montmeló,2008-04-27,1,Partially cloudy,15.4,51.7
+22,Istanbul,2008-05-11,1,Partially cloudy,13.4,32.5
+23,Monte-Carlo,2008-05-25,0,"Rain, Overcast",18.9,95.9
+24,Montreal,2008-06-08,1,"Rain, Partially cloudy",24.9,37.6
+25,Magny Cours,2008-06-22,0,"Rain, Partially cloudy",21.7,80.4
+26,Silverstone,2008-07-06,0,"Rain, Partially cloudy",14.1,61.0
+27,Hockenheim,2008-07-20,1,Partially cloudy,20.2,32.9
+28,Budapest,2008-08-03,0,"Rain, Partially cloudy",24.7,42.8
+29,Valencia,2008-08-24,0,Overcast,23.9,90.2
+30,Spa,2008-09-07,1,"Rain, Partially cloudy",12.4,55.7
+31,Monza,2008-09-14,1,"Rain, Partially cloudy",14.9,76.6
+32,Marina Bay,2008-09-28,1,Clear,16.0,15.8
+33,Oyama,2008-10-12,0,Partially cloudy,15.1,68.6
+34,Shanghai,2008-10-19,0,Partially cloudy,24.3,71.6
+35,São Paulo,2008-11-02,1,"Rain, Partially cloudy",21.5,83.3
+1,Melbourne,2009-03-29,1,Clear,16.8,6.9
+2,Kuala Lumpur,2009-04-05,1,"Rain, Overcast",26.6,91.5
+3,Shanghai,2009-04-19,1,"Rain, Partially cloudy",18.6,82.9
+4,Sakhir,2009-04-26,1,,,
+5,Montmeló,2009-05-10,1,"Rain, Partially cloudy",17.7,56.9
+6,Monte-Carlo,2009-05-24,0,Partially cloudy,21.3,27.9
+7,Istanbul,2009-06-07,0,Partially cloudy,24.8,50.0
+8,Silverstone,2009-06-21,0,"Rain, Partially cloudy",14.1,50.6
+9,Nürburg,2009-07-12,0,"Rain, Partially cloudy",15.2,77.1
+10,Budapest,2009-07-26,0,Clear,19.8,13.3
+11,Valencia,2009-08-23,0,Partially cloudy,26.6,61.0
+12,Spa,2009-08-30,1,Partially cloudy,10.6,25.3
+13,Monza,2009-09-13,1,"Rain, Partially cloudy",20.8,46.0
+14,Marina Bay,2009-09-27,1,Clear,20.3,17.1
+15,Suzuka,2009-10-04,1,Partially cloudy,20.1,36.2
+16,São Paulo,2009-10-18,1,"Rain, Partially cloudy",21.0,87.3
+17,Abu Dhabi,2009-11-01,0,Clear,28.1,1.0
+337,Sakhir,2010-03-14,0,Clear,25.6,0.0
+338,Melbourne,2010-03-28,1,"Rain, Partially cloudy",21.3,63.7
+339,Kuala Lumpur,2010-04-04,1,Partially cloudy,29.4,89.0
+340,Shanghai,2010-04-18,1,"Rain, Partially cloudy",16.7,56.7
+341,Montmeló,2010-05-09,0,"Rain, Partially cloudy",15.2,47.4
+342,Monte-Carlo,2010-05-16,1,Partially cloudy,17.0,68.6
+343,Istanbul,2010-05-30,0,Partially cloudy,23.1,30.0
+344,Montreal,2010-06-13,0,Partially cloudy,20.6,35.6
+345,Valencia,2010-06-27,1,"Rain, Partially cloudy",26.4,66.1
+346,Silverstone,2010-07-11,1,"Rain, Partially cloudy",19.3,39.2
+347,Hockenheim,2010-07-25,1,"Rain, Partially cloudy",17.2,47.8
+348,Budapest,2010-08-01,1,Clear,23.3,6.6
+349,Spa,2010-08-29,1,"Rain, Partially cloudy",10.5,81.9
+350,Monza,2010-09-12,0,Partially cloudy,19.3,38.5
+351,Marina Bay,2010-09-26,1,Clear,21.7,11.7
+352,Suzuka,2010-10-10,1,"Rain, Partially cloudy",21.4,47.8
+353,Yeongam County,2010-10-24,1,Partially cloudy,16.0,53.9
+354,São Paulo,2010-11-07,1,Partially cloudy,19.4,46.3
+355,Abu Dhabi,2010-11-14,1,Rain,26.8,16.7
+917,São Paulo,2014-11-09,0,"Rain, Partially cloudy",21.1,81.8
+950,Shanghai,2016-04-17,1,Partially cloudy,17.8,58.1
+951,Sochi,2016-05-01,1,Partially cloudy,14.0,64.0
+952,Montmeló,2016-05-15,1,Partially cloudy,18.0,30.9
+953,Monte-Carlo,2016-05-29,0,"Rain, Partially cloudy",18.6,70.1
+954,Montreal,2016-06-12,1,Partially cloudy,12.2,84.1
+955,Baku,2016-06-19,0,Partially cloudy,26.9,78.2
+956,Spielberg,2016-07-03,1,"Rain, Partially cloudy",15.1,83.4
+957,Silverstone,2016-07-10,1,"Rain, Partially cloudy",17.8,71.6
+958,Budapest,2016-07-24,0,Partially cloudy,25.0,42.4
+959,Hockenheim,2016-07-31,0,"Rain, Partially cloudy",20.8,59.4
+960,Spa,2016-08-28,1,"Rain, Partially cloudy",21.1,27.8
+961,Monza,2016-09-04,1,Partially cloudy,24.3,41.4
+962,Marina Bay,2016-09-18,1,Clear,22.0,1.3
+963,Kuala Lumpur,2016-10-02,1,"Rain, Partially cloudy",29.0,89.0
+964,Suzuka,2016-10-09,0,"Rain, Partially cloudy",20.0,76.1
+965,Austin,2016-10-23,1,Clear,20.0,2.3
+966,Mexico City,2016-10-30,1,"Rain, Partially cloudy",12.4,74.2
+967,São Paulo,2016-11-13,1,"Rain, Overcast",18.0,93.6
+968,Abu Dhabi,2016-11-27,0,Clear,24.4,4.8
+969,Melbourne,2017-03-26,0,Partially cloudy,21.2,63.3
+970,Shanghai,2017-04-09,1,"Rain, Partially cloudy",12.5,82.8
+971,Sakhir,2017-04-16,1,Partially cloudy,25.7,82.8
+972,Sochi,2017-04-30,1,Clear,18.0,11.1
+973,Montmeló,2017-05-14,1,Partially cloudy,20.0,40.6
+974,Monte-Carlo,2017-05-28,1,Clear,22.4,19.2
+975,Montreal,2017-06-11,1,Partially cloudy,25.6,23.3
+976,Baku,2017-06-25,1,Partially cloudy,25.1,39.8
+977,Spielberg,2017-07-09,0,"Rain, Partially cloudy",21.9,78.6
+978,Silverstone,2017-07-16,1,"Rain, Partially cloudy",19.0,82.8
+979,Budapest,2017-07-30,1,Partially cloudy,24.1,29.2
+980,Spa,2017-08-27,1,"Rain, Partially cloudy",17.1,52.3
+981,Monza,2017-09-03,0,Partially cloudy,18.0,40.8
+982,Marina Bay,2017-09-17,0,Partially cloudy,18.1,35.8
+983,Kuala Lumpur,2017-10-01,0,Partially cloudy,27.8,57.3
+984,Suzuka,2017-10-08,1,Partially cloudy,21.0,41.7
+985,Austin,2017-10-22,0,"Rain, Partially cloudy",22.2,38.2
+986,Mexico City,2017-10-29,1,"Rain, Partially cloudy",15.7,48.9
+987,São Paulo,2017-11-12,1,Clear,20.4,18.4
+988,Abu Dhabi,2017-11-26,0,Partially cloudy,24.2,33.7
+989,Melbourne,2018-03-25,1,"Rain, Partially cloudy",21.0,74.0
+990,Sakhir,2018-04-08,1,Rain,24.7,15.0
+991,Shanghai,2018-04-15,1,Rain,15.3,19.6
+992,Baku,2018-04-29,1,"Rain, Partially cloudy",15.3,72.3
+993,Montmeló,2018-05-13,1,"Rain, Partially cloudy",12.9,64.5
+994,Monte-Carlo,2018-05-27,1,Partially cloudy,23.0,82.2
+995,Montreal,2018-06-10,1,Clear,16.3,19.2
+996,Le Castellet,2018-06-24,1,"Rain, Partially cloudy",21.7,84.4
+997,Spielberg,2018-07-01,1,Partially cloudy,13.8,62.3
+998,Silverstone,2018-07-08,1,Partially cloudy,22.2,24.0
+999,Hockenheim,2018-07-22,1,"Rain, Partially cloudy",20.0,67.6
+1000,Budapest,2018-07-29,1,Partially cloudy,26.9,46.7
+1001,Spa,2018-08-26,1,Partially cloudy,11.6,72.4
+1002,Monza,2018-09-02,1,"Rain, Partially cloudy",17.8,64.5
+1003,Marina Bay,2018-09-16,1,Clear,16.9,18.2
+1004,Sochi,2018-09-30,0,Partially cloudy,19.3,66.4
+1005,Suzuka,2018-10-07,1,"Rain, Partially cloudy",23.4,29.4
+1006,Austin,2018-10-21,1,Clear,17.7,2.3
+1007,Mexico City,2018-10-28,1,"Rain, Partially cloudy",15.0,81.6
+1008,São Paulo,2018-11-11,0,Partially cloudy,22.1,75.0
+1009,Abu Dhabi,2018-11-25,1,Rain,27.1,16.7
+1010,Melbourne,2019-03-17,0,Partially cloudy,19.8,23.6
+1011,Sakhir,2019-03-31,1,"Rain, Partially cloudy",24.4,89.2
+1012,Shanghai,2019-04-14,0,Partially cloudy,15.7,20.9
+1013,Baku,2019-04-28,1,Clear,15.0,11.3
+1014,Montmeló,2019-05-12,1,Clear,16.1,19.8
+1015,Monte-Carlo,2019-05-26,1,"Rain, Partially cloudy",18.4,64.3
+1016,Montreal,2019-06-09,0,Clear,23.0,17.5
+1017,Le Castellet,2019-06-23,0,Partially cloudy,22.6,67.1
+1018,Spielberg,2019-06-30,0,Clear,23.6,15.8
+1019,Silverstone,2019-07-14,1,Partially cloudy,15.5,67.6
+1020,Hockenheim,2019-07-28,0,"Rain, Overcast",20.4,96.6
+1021,Budapest,2019-08-04,0,Clear,20.4,14.1
+1022,Spa,2019-09-01,1,"Rain, Partially cloudy",14.2,69.5
+1023,Monza,2019-09-08,1,"Rain, Partially cloudy",14.2,56.8
+1024,Marina Bay,2019-09-22,1,Clear,19.6,18.1
+1025,Sochi,2019-09-29,1,"Rain, Partially cloudy",17.1,35.1
+1026,Suzuka,2019-10-13,0,Partially cloudy,21.0,28.0
+1027,Mexico City,2019-10-27,1,"Rain, Partially cloudy",16.3,71.4
+1028,Austin,2019-11-03,0,Clear,13.9,1.3
+1029,São Paulo,2019-11-17,1,Partially cloudy,18.4,49.8
+1030,Abu Dhabi,2019-12-01,0,Partially cloudy,24.1,29.6
+1031,Spielberg,2020-07-05,1,Clear,19.2,17.1
+1032,Spielberg,2020-07-12,1,Partially cloudy,14.8,64.0
+1033,Budapest,2020-07-19,1,"Rain, Partially cloudy",17.5,73.4
+1034,Silverstone,2020-08-02,1,Partially cloudy,16.2,43.8
+1035,Silverstone,2020-08-09,0,Partially cloudy,19.8,66.9
+1036,Montmeló,2020-08-16,0,Partially cloudy,25.1,45.6
+1037,Spa,2020-08-30,1,"Rain, Partially cloudy",11.8,78.8
+1038,Monza,2020-09-06,1,"Rain, Partially cloudy",21.6,29.7
+1039,Mugello,2020-09-13,1,Clear,16.4,0.0
+1040,Sochi,2020-09-27,1,Clear,23.1,7.0
+1041,Nürburg,2020-10-11,1,"Rain, Partially cloudy",7.4,63.1
+1042,Portimão,2020-10-25,0,"Rain, Partially cloudy",16.8,57.6
+1043,Imola,2020-11-01,1,"Rain, Partially cloudy",13.1,69.1
+1044,Istanbul,2020-11-15,0,"Rain, Partially cloudy",11.8,82.0
+1045,Sakhir,2020-11-29,1,"Rain, Partially cloudy",17.4,40.7
+1046,Sakhir,2020-12-06,1,Clear,16.3,0.0
+1047,Abu Dhabi,2020-12-13,1,Partially cloudy,22.2,33.5
+1052,Sakhir,2021-03-28,1,Clear,18.7,0.0
+1053,Imola,2021-04-18,1,"Rain, Partially cloudy",9.9,43.4
+1054,Portimão,2021-05-02,1,Partially cloudy,15.2,44.6
+1055,Montmeló,2021-05-09,1,Partially cloudy,17.5,61.8
+1056,Monte-Carlo,2021-05-23,0,Partially cloudy,17.7,87.6
+1057,Baku,2021-06-06,1,"Rain, Partially cloudy",21.5,41.2
+1059,Le Castellet,2021-06-20,0,"Rain, Partially cloudy",24.1,89.5
+1058,Spielberg,2021-06-27,0,"Rain, Partially cloudy",20.2,81.3
+1060,Spielberg,2021-07-04,1,"Rain, Overcast",18.3,93.5
+1061,Silverstone,2021-07-18,1,Clear,23.0,12.1
+1062,Budapest,2021-08-01,1,"Rain, Partially cloudy",22.7,62.3
+1063,Spa,2021-08-29,0,"Rain, Overcast",11.8,95.8
+1064,Zandvoort,2021-09-05,0,Partially cloudy,16.1,53.8
+1065,Monza,2021-09-12,1,Partially cloudy,21.3,30.7
+1066,Sochi,2021-09-26,1,"Rain, Overcast",14.3,95.8
+1067,Istanbul,2021-10-10,0,"Rain, Partially cloudy",16.4,88.1
+1069,Austin,2021-10-24,0,"Rain, Partially cloudy",24.3,60.9
+1070,Mexico City,2021-11-07,1,Partially cloudy,13.1,45.3
+1071,São Paulo,2021-11-14,1,Partially cloudy,17.7,65.5
+1051,Al Daayen,2021-11-21,0,Clear,26.8,4.2
+1072,Jeddah,2021-12-05,1,Clear,28.0,8.1
+1073,Abu Dhabi,2021-12-12,1,Partially cloudy,23.6,36.1
+1074,Sakhir,2022-03-20,1,Clear,24.0,17.4
+1075,Jeddah,2022-03-27,1,Clear,25.7,3.1
+1076,Melbourne,2022-04-10,1,Partially cloudy,21.2,41.5
+1077,Imola,2022-04-24,1,"Rain, Partially cloudy",12.8,62.9
+1078,Miami,2022-05-08,1,"Rain, Partially cloudy",27.7,53.5
+1079,Montmeló,2022-05-22,0,Clear,26.1,2.3
+1080,Monte-Carlo,2022-05-29,1,"Rain, Partially cloudy",22.2,60.1
+1081,Baku,2022-06-12,1,Partially cloudy,23.4,29.6
+1082,Montreal,2022-06-19,1,Clear,15.8,17.3
+1083,Silverstone,2022-07-03,1,"Rain, Partially cloudy",14.5,44.5
+1084,Spielberg,2022-07-10,1,"Rain, Partially cloudy",16.2,73.8
+1085,Le Castellet,2022-07-24,1,Clear,27.4,4.2
+1086,Budapest,2022-07-31,1,"Rain, Partially cloudy",19.0,70.0
+1087,Spa,2022-08-28,1,Partially cloudy,15.6,45.7
+1088,Zandvoort,2022-09-04,1,Partially cloudy,19.9,83.3
+1089,Monza,2022-09-11,1,Partially cloudy,20.8,23.2
+1091,Marina Bay,2022-10-02,0,Partially cloudy,18.7,50.1
+1092,Suzuka,2022-10-09,1,"Rain, Overcast",16.1,94.9
+1093,Austin,2022-10-23,1,Partially cloudy,24.6,58.6
+1094,Mexico City,2022-10-30,1,"Rain, Partially cloudy",18.3,66.5
+1095,São Paulo,2022-11-13,1,Partially cloudy,22.5,51.7
+1096,Abu Dhabi,2022-11-20,0,Clear,28.1,16.3
+1098,Sakhir,2023-03-05,1,Partially cloudy,24.9,38.2
+1099,Jeddah,2023-03-19,1,Partially cloudy,25.9,31.1
+1100,Melbourne,2023-04-02,1,Partially cloudy,13.5,27.5
+1101,Baku,2023-04-30,1,"Rain, Partially cloudy",19.3,59.4
+1102,Miami,2023-05-07,0,"Rain, Partially cloudy",25.8,68.6
+1104,Monte-Carlo,2023-05-28,1,Partially cloudy,21.5,71.5
+1105,Montmeló,2023-06-04,0,Partially cloudy,19.5,54.7
+1106,Montreal,2023-06-18,1,"Rain, Partially cloudy",15.1,86.1
+1107,Spielberg,2023-07-02,1,"Rain, Partially cloudy",17.2,62.2
+1108,Silverstone,2023-07-09,1,"Rain, Partially cloudy",17.7,41.2
+1109,Budapest,2023-07-23,0,Partially cloudy,24.6,22.6
+1110,Spa,2023-07-30,0,"Rain, Partially cloudy",14.4,86.5
+1111,Zandvoort,2023-08-27,1,"Rain, Partially cloudy",15.4,29.8
+1112,Monza,2023-09-03,0,Partially cloudy,22.8,62.2
+1113,Marina Bay,2023-09-17,1,Partially cloudy,18.7,53.6
+1114,Suzuka,2023-09-24,1,"Rain, Partially cloudy",23.9,43.7
+1115,Al Daayen,2023-10-08,1,Clear,33.2,2.0
+1116,Austin,2023-10-22,0,Clear,24.7,16.6
+1117,Mexico City,2023-10-29,1,Partially cloudy,18.0,30.7
+1118,São Paulo,2023-11-05,1,Partially cloudy,17.4,34.4
+1119,Las Vegas,2023-11-19,1,Clear,15.1,2.2
+1120,Abu Dhabi,2023-11-26,0,Clear,25.4,19.1
+1121,Sakhir,2024-03-02,0,Clear,17.8,8.9
+1122,Jeddah,2024-03-09,1,Clear,24.9,0.0
+1123,Melbourne,2024-03-24,1,"Rain, Partially cloudy",16.1,48.0
+1124,Suzuka,2024-04-07,1,Partially cloudy,16.6,83.4
+1125,Shanghai,2024-04-21,1,"Rain, Partially cloudy",17.0,79.8
+1126,Miami,2024-05-05,1,Partially cloudy,26.5,54.4
+1127,Imola,2024-05-19,1,Partially cloudy,19.7,48.3
+1128,Monte-Carlo,2024-05-26,1,Partially cloudy,18.7,53.9
+1129,Montreal,2024-06-09,0,"Rain, Partially cloudy",15.8,84.0
+1130,Montmeló,2024-06-23,0,"Rain, Partially cloudy",20.8,84.8
+1131,Spielberg,2024-06-30,1,Partially cloudy,23.4,61.5
+1132,Silverstone,2024-07-07,0,"Rain, Partially cloudy",12.9,56.8
+1133,Budapest,2024-07-21,0,"Rain, Partially cloudy",24.6,58.7
+1134,Spa,2024-07-28,0,"Rain, Partially cloudy",15.6,32.7
+1135,Zandvoort,2024-08-25,0,"Rain, Partially cloudy",17.1,60.8
+1136,Monza,2024-09-01,0,Partially cloudy,26.1,41.9
+1137,Baku,2024-09-15,1,Partially cloudy,22.4,30.0
+1138,Marina Bay,2024-09-22,0,Partially cloudy,18.1,34.3
+1139,Austin,2024-10-20,1,Clear,22.5,0.5
+1140,Mexico City,2024-10-27,1,"Rain, Partially cloudy",14.8,81.0
+1141,São Paulo,2024-11-03,1,"Rain, Partially cloudy",20.1,89.9
+1142,Las Vegas,2024-11-23,0,Partially cloudy,15.5,28.3
+1143,Al Daayen,2024-12-01,1,Clear,20.6,7.3
+1144,Abu Dhabi,2024-12-08,1,Clear,25.3,6.1
